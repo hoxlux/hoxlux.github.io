@@ -16,18 +16,18 @@
 }
 
 .bg-white {
-  background-color: var(--branco);
-  color: var(--dark-grey);
+  background-color: var(--branco) !important;
+  color: var(--dark-grey) !important;
 }
 
 .bg-whitesmoke {
-  background-color: var(--whitesmoke);
-  color: var(--dark-grey);
+  background-color: var(--whitesmoke) !important;
+  color: var(--dark-grey) !important;
 }
 
 .bg-dark {
-  background-color: var(--dark-grey);
-  color: var(--whitesmoke);
+  background-color: var(--dark-grey) !important;
+  color: var(--whitesmoke) !important;
 }
 
 .section {
@@ -40,7 +40,6 @@
   align-items: center;
   justify-content: flex-start;
   width: 100%;
-  min-height: 100%;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
