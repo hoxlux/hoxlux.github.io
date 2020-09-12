@@ -332,9 +332,11 @@
 .text-white {
   color: var(--white) !important;
 }
+
 .text-whitesmoke {
   color: var(--whitesmoke) !important;
 }
+
 .text-dark-grey {
   color: var(--dark-grey) !important;
 }
@@ -394,6 +396,7 @@
 }
 
 /* Scrollbar */
+
 ::-webkit-scrollbar {
   width: 0;
 }
@@ -413,14 +416,14 @@
 /* Normalizar */
 
 html {
-  font-family: Inconsolata, sans-serif;
+  font-family: 'Inconsolata', monospace;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
 }
 
 body {
-  font-family: Inconsolata, sans-serif;
+  font-family: 'Inconsolata', monospace;
   color: var(--whitesmoke);
   font-size: 0.75rem;
   letter-spacing: -0.01rem;
@@ -471,7 +474,7 @@ a {
   background-color: transparent;
   text-decoration: none;
   font-weight: 500;
-  color: var(--roxo);
+  color: var(--white);
 }
 
 a:active,
@@ -657,7 +660,7 @@ input[type='radio']:after {
   top: -2px;
   left: -1px;
   position: relative;
-  background-color: var(--whitesmoke);
+  background-color: var(--white);
   content: '';
   display: inline-block;
   visibility: visible;
