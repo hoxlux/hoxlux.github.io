@@ -1,3 +1,3 @@
-# (hoxlux.github.io)[https://hoxlux.github.io]
+# [hoxlux.github.io](https://hoxlux.github.io)
 
-## 🧪⚡️🚀
+## 🚀 Hoxlux® Pro Github Page
