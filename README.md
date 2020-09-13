@@ -1,4 +1,4 @@
-[hoxlux.github.io](https://hoxlux.github.io)
+<sub>[hoxlux.github.io](https://hoxlux.github.io)</sub>
 
 ## 🚀 Hoxlux® Pro Github Page
 
