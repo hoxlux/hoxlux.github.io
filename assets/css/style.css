@@ -673,7 +673,7 @@ input[type='radio']:checked:after {
   top: -2px;
   left: -1px;
   position: relative;
-  background-color: var(--dark);
+  background-color: var(--dark-grey);
   content: '';
   display: inline-block;
   visibility: visible;
