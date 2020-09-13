@@ -2,18 +2,4 @@
 
 ## 🚀 Hoxlux® Pro Github Page
 
-```jsx
-import React, { Fragment } from 'react'
-
-import './App.css'
-
-const App = () => {
-
-return (
-  <Fragment>
-    <App />
-  </Fragment>
-}
-
-export default App
-```
+<sub><sup>Made with ❤️ at [Hoxlux®](https://hoxlux.com)</sup></sub>
